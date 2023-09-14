@@ -1,0 +1,9 @@
+---
+title: "Website"
+---
+
+Hi there, I‘m Wenyu. 
+Welcome to my website. 
+Navigate to other tabs to see my work~
+
+![](wenyu_pic.jpg){width=300}

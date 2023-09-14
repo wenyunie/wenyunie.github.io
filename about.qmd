@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+This is a website to introduce the personal life and projects of Wenyu Nie.
+
+
+### CONTACT
+Data scientists help data scientists, feel free to contact me through: wenyunie@student.ubc.ca
+
+Please contact us for business project collaboration at the following email address: wenyu.nie@outlook.com 

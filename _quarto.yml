@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Wenyu Nie"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: www.linkedin.com/in/wenyunie
+        text: LinkedIn Profile
+      - href: CV_Psychometrician_WenyuNie_V5.pdf
+        text: Resume
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
