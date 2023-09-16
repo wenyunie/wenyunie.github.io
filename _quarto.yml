@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: https://www.linkedin.com/in/wenyunie
+      - url: https://www.linkedin.com/in/wenyunie
         text: LinkedIn Profile
       - href: CV_Psychometrician_WenyuNie_V5.pdf
         text: Resume
