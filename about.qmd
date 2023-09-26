@@ -1,5 +1,5 @@
 ---
-title: "About v2"
+title: "About v3"
 ---
 
 This is a website to introduce the personal life and projects of Wenyu Nie.
